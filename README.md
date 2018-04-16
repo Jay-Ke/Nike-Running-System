@@ -11,9 +11,9 @@ Download [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-do
 
 
 ### Install Maven 
-'''
+
 Install [Maven](https://maven.apache.org/install.html). Make sure you have maven in your $PATH as said in the installation document
-'''
+
 
 ### Install Docker
 
