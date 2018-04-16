@@ -5,9 +5,9 @@
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Install Java
-'''
-Download JDK 8 here http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html and install it directly.
-'''
+
+Download [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html ) here and install it directly.
+
 
 
 ### Install Maven 
