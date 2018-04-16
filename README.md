@@ -12,15 +12,15 @@ Download [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-do
 
 ### Install Maven 
 '''
-Following this document: https://maven.apache.org/install.html Make sure you have maven in your $PATH as said in the installation document
+Install [Maven](https://maven.apache.org/install.html). Make sure you have maven in your $PATH as said in the installation document
 '''
 
 ### Install Docker
-'''
-Download and follow instruction to install Docker here: https://store.docker.com/editions/community/docker-ce-desktop-mac
-'''
+
+Download and follow instruction to install [Docker](https://store.docker.com/editions/community/docker-ce-desktop-mac).
+
 
 ### Install IntelliJ
-'''
-Download IntelliJ from https://www.jetbrains.com/idea/?fromMenu#chooseYourEdition and install it on your OS
-'''
+
+Download [IntelliJ](https://www.jetbrains.com/idea/?fromMenu#chooseYourEdition) and install it on your OS.
+
