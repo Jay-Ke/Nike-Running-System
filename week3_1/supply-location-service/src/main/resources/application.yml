@@ -1,0 +1,5 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: supply-location-service

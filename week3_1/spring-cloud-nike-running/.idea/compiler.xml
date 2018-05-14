@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="running-location-distribution" />
+        <module name="running-location-simulator" />
+        <module name="running-location-updater" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="running-location-updater" target="1.8" />
+      <module name="runninglocationupdater" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
